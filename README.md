@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 👨‍💻 Digging Android at Papershift(https://www.papershift.com/en)
-- 🏠 Living in Germany 🇩🇪 
+- 👨‍💻 Digging Android at Getir(https://getir.uk)
+- 🏠 Living in Berlin, Germany 🇩🇪 
 - 🌱 From Delhi, India 🇮🇳
 - 🖊 Write blogs on [medium](https://medium.com/@shubham08gupta)
 - 💬 Ask me about which tech product to buy 
