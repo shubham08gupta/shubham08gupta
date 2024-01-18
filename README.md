@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 👨‍💻 Digging Android at Getir(https://getir.uk)
+- 👨‍💻 Senior Android Developer
 - 🏠 Living in Berlin, Germany 🇩🇪 
 - 🌱 From Delhi, India 🇮🇳
 - 🖊 Write blogs on [medium](https://medium.com/@shubham08gupta)
 - 💬 Ask me about which tech product to buy 
 - 📫 How to reach me: shubham6222gupta@gmail.com
-- 😄 Pronouns: Ambivert(90% introvert), Quarantine chef, independent
+- 😄 Adjectives: Ambivert, calm, independent, self-sufficient, team player
 - ⚡ Fun fact: I'm obsessed with cleanliness, either with code or environment
